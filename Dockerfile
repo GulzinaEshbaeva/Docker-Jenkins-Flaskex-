@@ -1,4 +1,4 @@
 FROM jenkins/jnlp-agent-alpine
-LABEL maintainer="jebikirogi@gmail.com"
+LABEL maintainer="ikambarov@yahoo.com"
 RUN apk add ansible 
 
